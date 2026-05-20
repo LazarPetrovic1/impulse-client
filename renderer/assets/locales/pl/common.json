@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "Wyślij",
+    "addInfo": "Dodaj więcej informacji",
+    "employment": "Zatrudnienie",
+    "noJob": "Bezrobotny",
+    "website": "Strona internetowa",
+    "noWebsite": "Nie mam strony internetowej",
+    "toggleSocial": "Pokaż więcej",
+    "hideSocial": "Ukryj sekcję",
+    "back": "Wstecz",
+    "reqsent": "Zapytanie wysłane",
+    "addfr": "Dodaj znajomego",
+    "welcome": "Witamy",
+    "worksat": "Pracuje w"
+  },
+  "ctxmenus": {
+    "copyrel": "Kopiuj ścieżkę względną",
+    "goto": "Przejdź do ścieżki",
+    "remove": "Usuń z menu bocznego",
+    "copytext": "Kopiuj tekst",
+    "pastetext": "Wklej tekst",
+    "selectall": "Zaznacz wszystko",
+    "gohere": "Przejdź tutaj"
+  },
+  "system": {
+    "file": "Plik",
+    "reload": "Odśwież",
+    "quit": "Wyjdź",
+    "view": "Widok",
+    "devtools": "Przełącz narzędzia deweloperskie",
+    "window": "Okno",
+    "minimize": "Minimalizuj",
+    "maximize": "Maksymalizuj",
+    "close": "Zamknij"
+  },
+  "sidenav": {
+    "issues": "Zgłoszenia",
+    "social": "Społeczność",
+    "chat": "Czat",
+    "groups": "Grupy",
+    "roles": "Role",
+    "terminal": "Terminal",
+    "upgrade": "Uaktualnij"
+  },
+  "issues": {
+    "issues": "Zgłoszenia",
+    "create": "Utwórz zgłoszenie",
+    "update": "Zaktualizuj zgłoszenie",
+    "submit": "Wyślij",
+    "title": "Tytuł",
+    "body": "Treść",
+    "shortcuts": "Globalne skróty są wyłączone na stronach formularzy."
+  },
+  "register": {
+    "next": "Dalej",
+    "title1": "Podstawowe informacje",
+    "fname": "Imię",
+    "lname": "Nazwisko",
+    "email": "Email",
+    "sex": "Płeć",
+    "title2": "Informacje o profilu",
+    "uname": "Nazwa użytkownika",
+    "pass": "Hasło",
+    "pass2": "Potwierdź hasło",
+    "title3": "Opowiedz coś o sobie",
+    "bio": "Twoja bio",
+    "title4": "Przegląd",
+    "fullname": "Imię i nazwisko",
+    "dob": "Data urodzenia",
+    "imageupl": "Obraz przesłany",
+    "signup": "Zarejestruj się"
+  },
+  "profileoverview": {
+    "title": "Przegląd profilu",
+    "fname": "Imię",
+    "lname": "Nazwisko",
+    "email": "Email",
+    "bio": "Bio",
+    "edit": "Edytuj",
+    "save": "Zapisz widoczność"
+  },
+  "locale": {
+    "switch": "Zmień język"
+  },
+  "theme": {
+    "switch": "Zmień motyw",
+    "light": "Jasny",
+    "paper": "Papier",
+    "contrast": "Kontrast",
+    "mono": "Mono",
+    "terminal": "Haker",
+    "jewel": "Klejnot",
+    "neon": "Neon",
+    "pastel": "Pastelowy",
+    "warm": "Ciepły",
+    "midnight": "Północ",
+    "ocean": "Ocean",
+    "sunset": "Zachód słońca",
+    "forest": "Las"
+  },
+  "fonts": {
+    "switchf": "Zmień czcionkę",
+    "switchfs": "Zmień rozmiar czcionki",
+    "sysdef": "Domyślne systemowe"
+  },
+  "auth": {
+    "welcome": "Witamy w Impulse! Zaloguj się!",
+    "login": "Logowanie",
+    "identifier": "Nazwa użytkownika lub email",
+    "password": "Hasło",
+    "remember_me": "Zapamiętaj mnie",
+    "submit_login": "Zaloguj mnie!"
+  },
+  "nav": {
+    "login": "Logowanie",
+    "register": "Rejestracja",
+    "about": "O nas",
+    "homepage": "Strona główna",
+    "settings": "Ustawienia",
+    "profile": "Profil",
+    "notifications": "Powiadomienia",
+    "logout": "Wyloguj się",
+    "issues": "Zgłoszenia",
+    "social": "Społeczność",
+    "chat": "Czat",
+    "videos": "Wideo"
+  },
+  "settings": {
+    "basic": "Podstawowe ustawienia",
+    "account": "Informacje o koncie",
+    "content": "Polityka treści",
+    "additional": "Dodatkowe informacje",
+    "terms": "Regulamin",
+    "theme": "Panel motywów",
+    "docs": "Dokumentacja API",
+    "shortcuts": "Skróty",
+    "sidemenu": "Menu boczne",
+    "changepass": "Zmień hasło"
+  },
+  "social": {
+    "search": "Szukaj osób"
+  },
+  "groups": {
+    "search": "Szukaj grup",
+    "create": "Utwórz grupę",
+    "memlen": "członków",
+    "promote": "Awansuj",
+    "kick": "Wyrzuć",
+    "invite": "Zaproś",
+    "name": "Nazwa grupy",
+    "about": "O grupie",
+    "addppl": "Dodaj osoby",
+    "making": "Tworzenie...",
+    "make": "Utwórz",
+    "reqadmin": "Wymagaj zgody administratora",
+    "viewmems": "Zobacz członków",
+    "leavegroup": "Opuść grupę",
+    "ngf": "Nie znaleziono grup",
+    "groupseek": "Wyszukiwanie grup...",
+    "member": "Członek",
+    "accinv": "Akceptuj zaproszenie",
+    "pend": "Oczekujące",
+    "reqjoin": "Zgłoś się",
+    "join": "Dołącz"
+  },
+  "about": {
+    "1": "Witamy w Impulse — kulminacji mojej drogi jako inżyniera oprogramowania.",
+    "2": "Ta aplikacja jest rozwijana od ponad dekady. Zaczęła jako pomysł stworzenia nowej generacji platformy społecznościowej dla programistów i inżynierów. Z czasem wizja ta ewoluowała w coś innego: aplikację desktopową, która nadal zachowuje społecznościowy charakter, ale w bardziej skupionej i osobistej formie.",
+    "3": "To, co zaczęło się jako prosta aplikacja CRUD oparta na bazie NoSQL, rozrosło się do systemu rozproszonego z dokładnie zaprojektowanymi relacjami i architekturą.",
+    "4": "Jeśli jesteś zainteresowany, możesz sprawdzić moje inne projekty poniżej.",
+    "otherprojects": "Moje inne projekty",
+    "followme": "Obserwuj mnie"
+  },
+  "postform": {
+    "init": "Co się dzieje?",
+    "group": "Podziel się czymś z grupą...",
+    "title": "Tytuł",
+    "desc": "Opis",
+    "files": "Pliki",
+    "post": "Opublikuj"
+  },
+  "chats": {
+    "friends": "Czaty znajomych",
+    "group": "Czaty grupowe",
+    "select": "Wybierz czat"
+  },
+  "apidocs": {},
+  "shortcuts": {
+    "title": "Skróty",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "Przejdź do",
+    "reload": "Odśwież stronę",
+    "cmd": "Paleta poleceń",
+    "logout": "Wyloguj się"
+  },
+  "sidemenu": {
+    "title": "Opcje menu bocznego",
+    "options": "Dostępne opcje",
+    "deleted": "Usunięte elementy",
+    "add": "Dodaj nowe elementy",
+    "remove": "Usuń menu boczne",
+    "reset": "Resetuj elementy",
+    "noshow": "Brak elementów do wyświetlenia",
+    "route": "Trasa",
+    "text": "Tekst",
+    "anim": "Animacja",
+    "submit": "Wyślij"
+  },
+  "changepass": {
+    "title": "Zmień hasło tutaj!"
+  },
+  "notifs": {
+    "seeall": "Zobacz wszystko",
+    "title": "Powiadomienia",
+    "home": "Idź do strony głównej"
+  },
+  "modals": {
+    "cmd": "Paleta poleceń",
+    "searchcmd": "Szukaj poleceń...",
+    "grouppost": "Utwórz post grupowy",
+    "post": "Utwórz post",
+    "sideitem": "Dodaj nowy element menu bocznego",
+    "creategroup": "Utwórz grupę",
+    "invite": "Zaproś użytkowników",
+    "userseek": "Szukaj użytkowników...",
+    "members": "Członkowie",
+    "close": "Zamknij",
+    "savechanges": "Zapisz zmiany"
+  },
+  "premature404": {
+    "post": "Nie znaleziono posta",
+    "group": "Nie znaleziono grupy",
+    "profile": "Nie znaleziono profilu"
+  },
+  "posts": {
+    "attach": "Załącznik"
+  },
+  "tags": {
+    "usedby": "Używane przez",
+    "nousers": "Brak użytkowników",
+    "posts": "Posty",
+    "noposts": "Nie znaleziono postów",
+    "used": "Użyte",
+    "times": "razy"
+  },
+  "notfound": {
+    "oops1": "Ups, coś zepsułeś!",
+    "oops2": "Cóż, niezręczne...",
+    "prompt": "Czego szukałeś?",
+    "solution1": "Może powinieneś.",
+    "chat": "przejść do czatu",
+    "issue": "zgłosić to jako problem",
+    "home": "lub wrócić na stronę główną",
+    "goback": "Zamiast tego wróć"
+  }
+}

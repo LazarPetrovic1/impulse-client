@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+/* LATIN FONTS START */
+
+@font-face {
+  font-family: "Coronet";
+  src: url('../assets/impulse-fonts/lat/$CORONET.TTF');
+}
+
+@font-face {
+  font-family: "Freeport YU";
+  src: url('../assets/impulse-fonts/lat/$FREPORT.TTF');
+}
+
+@font-face {
+  font-family: "President YU";
+  src: url('../assets/impulse-fonts/lat/$PRESIDE.TTF');
+}
+
+@font-face {
+  font-family: "Impulse";
+  src: url("../assets/impulse-fonts/lat/AARCO___.TTF");
+}
+
+@font-face {
+  font-family: "Alphabetix";
+  src: url('../assets/impulse-fonts/lat/ALFABET_.ttf');
+}
+
+@font-face {
+  font-family: 'Amazon';
+  src: url('../assets/impulse-fonts/lat/amazon.ttf');
+}
+
+@font-face {
+  font-family: "Argon Man Scaqh";
+  src: url('../assets/impulse-fonts/lat/Argmansc.ttf');
+}
+
+@font-face {
+  font-family: 'Blade';
+  src: url('../assets/impulse-fonts/lat/BLADE.TTF');
+}
+
+@font-face {
+  font-family: 'Chinese Takeaway';
+  src: url('../assets/impulse-fonts/lat/CHINESETAKEAWAY.ttf');
+}
+
+@font-face {
+  font-family: 'Chinyen';
+  src: url('../assets/impulse-fonts/lat/Chinyen.ttf');
+}
+
+@font-face {
+  font-family: 'Chowfun';
+  src: url('../assets/impulse-fonts/lat/CHOWFUN_.TTF');
+}
+
+@font-face {
+  font-family: 'Copperplate Gothid Bold Condensed';
+  src: url('../assets/impulse-fonts/lat/COPGOTBC.TTF');
+}
+
+@font-face {
+  font-family: 'Cosmic Two';
+  src: url('../assets/impulse-fonts/lat/COSMIC2N.TTF');
+}
+
+@font-face {
+  font-family: 'Diogenes';
+  src: url('../assets/impulse-fonts/lat/DIOGENES.ttf');
+}
+
+@font-face {
+  font-family: 'Fountain Pen';
+  src: url('../assets/impulse-fonts/lat/FountainPen.ttf');
+}
+
+@font-face {
+  font-family: 'Heather';
+  src: url('../assets/impulse-fonts/lat/HEATHER_.TTF');
+}
+
+@font-face {
+  font-family: 'P22 Hopper Josephine';
+  src: url('../assets/impulse-fonts/lat/P22\ Hopper\ Josephine.ttf');
+}
+
+/* LATIN FONTS END */
+
+/* CYRILLIC FONTS START */
+
+@font-face {
+  font-family: 'Koala Bold';
+  src: url('../assets/impulse-fonts/cyr/_KOALAB.TTF');
+}
+
+@font-face {
+  font-family: 'Miroslav';
+  src: url('../assets/impulse-fonts/cyr/_MIROSLN.TTF');
+}
+
+@font-face {
+  font-family: 'Mistral';
+  src: url('../assets/impulse-fonts/cyr/_MISTRAL.TTF');
+}
+
+@font-face {
+  font-family: 'Nikola Bold';
+  src: url('../assets/impulse-fonts/cyr/_NIKOLAB.TTF');
+}
+
+@font-face {
+  font-family: 'Cyrillic Palas';
+  src: url('../assets/impulse-fonts/cyr/CIRPALAS.TTF');
+}
+
+/* CYRILLIC FONTS END */
+
+@font-face {
+  font-family: "Japanese";
+  src: url('../assets/impulse-fonts/kanji/Japanese.ttf');
+}
+
+* { box-sizing: border-box; }
+html, body, #__next { height: 100%; }
+.allevents { pointer-events: all; }
+.mention { color: #0d6efd; cursor: pointer; font-weight: 500; }
+.mention:hover { text-decoration: underline; }
+.hashtag { color: #198754; cursor: pointer; font-weight: 500; }
+.hashtag:hover { text-decoration: underline; }
+.xterm { height: 100%; }
+.xterm-viewport { overflow-y: auto !important; }
+.xterm-screen { padding: 12px; }

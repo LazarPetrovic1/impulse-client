@@ -1,0 +1,259 @@
+{
+  "profile": {
+    "submit": "Gửi",
+    "addInfo": "Thêm thông tin",
+    "employment": "Việc làm",
+    "noJob": "Thất nghiệp",
+    "website": "Trang web",
+    "noWebsite": "Tôi không có trang web",
+    "toggleSocial": "Hiển thị thêm",
+    "hideSocial": "Ẩn phần",
+    "back": "Quay lại",
+    "reqsent": "Đã gửi yêu cầu",
+    "addfr": "Thêm bạn",
+    "welcome": "Chào mừng",
+    "worksat": "Làm việc tại"
+  },
+  "ctxmenus": {
+    "copyrel": "Sao chép đường dẫn tương đối",
+    "goto": "Đi tới đường dẫn",
+    "remove": "Xóa khỏi menu bên",
+    "copytext": "Sao chép văn bản",
+    "pastetext": "Dán văn bản",
+    "selectall": "Chọn tất cả",
+    "gohere": "Đi đến đây"
+  },
+  "system": {
+    "file": "Tệp",
+    "reload": "Tải lại",
+    "quit": "Thoát",
+    "view": "Xem",
+    "devtools": "Bật/tắt công cụ nhà phát triển",
+    "window": "Cửa sổ",
+    "minimize": "Thu nhỏ",
+    "maximize": "Phóng to",
+    "close": "Đóng"
+  },
+  "sidenav": {
+    "issues": "Vấn đề",
+    "social": "Mạng xã hội",
+    "chat": "Trò chuyện",
+    "groups": "Nhóm",
+    "roles": "Vai trò",
+    "terminal": "Terminal",
+    "upgrade": "Nâng cấp"
+  },
+  "issues": {
+    "issues": "Vấn đề",
+    "create": "Tạo vấn đề",
+    "update": "Cập nhật vấn đề",
+    "submit": "Gửi",
+    "title": "Tiêu đề",
+    "body": "Nội dung",
+    "shortcuts": "Phím tắt toàn cục bị tắt trên trang biểu mẫu."
+  },
+  "register": {
+    "next": "Tiếp tục",
+    "title1": "Thông tin cơ bản",
+    "fname": "Tên",
+    "lname": "Họ",
+    "email": "Email",
+    "sex": "Giới tính",
+    "title2": "Thông tin hồ sơ",
+    "uname": "Tên người dùng",
+    "pass": "Mật khẩu",
+    "pass2": "Xác nhận mật khẩu",
+    "title3": "Giới thiệu về bạn",
+    "bio": "Tiểu sử",
+    "title4": "Tổng quan",
+    "fullname": "Họ và tên",
+    "dob": "Ngày sinh",
+    "imageupl": "Đã tải ảnh lên",
+    "signup": "Đăng ký"
+  },
+  "profileoverview": {
+    "title": "Tổng quan hồ sơ",
+    "fname": "Tên",
+    "lname": "Họ",
+    "email": "Email",
+    "bio": "Tiểu sử",
+    "edit": "Chỉnh sửa",
+    "save": "Lưu hiển thị"
+  },
+  "locale": {
+    "switch": "Đổi ngôn ngữ"
+  },
+  "theme": {
+    "switch": "Đổi giao diện",
+    "light": "Sáng",
+    "paper": "Giấy",
+    "contrast": "Tương phản",
+    "mono": "Đơn sắc",
+    "terminal": "Hacker",
+    "jewel": "Ngọc",
+    "neon": "Neon",
+    "pastel": "Pastel",
+    "warm": "Ấm",
+    "midnight": "Nửa đêm",
+    "ocean": "Đại dương",
+    "sunset": "Hoàng hôn",
+    "forest": "Rừng"
+  },
+  "fonts": {
+    "switchf": "Đổi phông chữ",
+    "switchfs": "Đổi kích thước chữ",
+    "sysdef": "Mặc định hệ thống"
+  },
+  "auth": {
+    "welcome": "Chào mừng đến với Impulse! Vui lòng đăng nhập!",
+    "login": "Đăng nhập",
+    "identifier": "Tên người dùng hoặc email",
+    "password": "Mật khẩu",
+    "remember_me": "Ghi nhớ tôi",
+    "submit_login": "Đăng nhập"
+  },
+  "nav": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "about": "Giới thiệu",
+    "homepage": "Trang chủ",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "notifications": "Thông báo",
+    "logout": "Đăng xuất",
+    "issues": "Vấn đề",
+    "social": "Mạng xã hội",
+    "chat": "Trò chuyện",
+    "videos": "Video"
+  },
+  "settings": {
+    "basic": "Cài đặt cơ bản",
+    "account": "Thông tin tài khoản",
+    "content": "Chính sách nội dung",
+    "additional": "Thông tin bổ sung",
+    "terms": "Điều khoản và điều kiện",
+    "theme": "Khu vực giao diện",
+    "docs": "Tài liệu API",
+    "shortcuts": "Phím tắt",
+    "sidemenu": "Menu bên",
+    "changepass": "Đổi mật khẩu"
+  },
+  "social": {
+    "search": "Tìm kiếm người dùng"
+  },
+  "groups": {
+    "search": "Tìm kiếm nhóm",
+    "create": "Tạo nhóm",
+    "memlen": "thành viên",
+    "promote": "Thăng cấp",
+    "kick": "Xóa khỏi nhóm",
+    "invite": "Mời",
+    "name": "Tên nhóm",
+    "about": "Giới thiệu nhóm",
+    "addppl": "Thêm người",
+    "making": "Đang tạo...",
+    "make": "Tạo",
+    "reqadmin": "Yêu cầu quản trị viên phê duyệt",
+    "viewmems": "Xem thành viên",
+    "leavegroup": "Rời nhóm",
+    "ngf": "Không tìm thấy nhóm",
+    "groupseek": "Đang tìm nhóm...",
+    "member": "Thành viên",
+    "accinv": "Chấp nhận lời mời",
+    "pend": "Đang chờ",
+    "reqjoin": "Yêu cầu",
+    "join": "Tham gia"
+  },
+  "about": {
+    "1": "Chào mừng đến với Impulse — kết tinh của hành trình làm kỹ sư phần mềm của tôi.",
+    "2": "Ứng dụng này đã được phát triển hơn một thập kỷ. Nó bắt đầu như một ý tưởng xây dựng nền tảng mạng xã hội thế hệ mới dành cho lập trình viên và kỹ sư. Theo thời gian, tầm nhìn đó đã phát triển thành một ứng dụng desktop mang tinh thần xã hội nhưng tập trung và cá nhân hơn.",
+    "3": "Từ một ứng dụng CRUD đơn giản dựa trên NoSQL, nó đã phát triển thành một hệ thống phân tán với kiến trúc và các mối quan hệ được thiết kế cẩn thận.",
+    "4": "Nếu bạn quan tâm, hãy khám phá thêm các dự án khác của tôi bên dưới.",
+    "otherprojects": "Các dự án khác của tôi",
+    "followme": "Theo dõi tôi"
+  },
+  "postform": {
+    "init": "Có chuyện gì vậy?",
+    "group": "Chia sẻ gì đó với nhóm...",
+    "title": "Tiêu đề",
+    "desc": "Mô tả",
+    "files": "Tệp",
+    "post": "Đăng"
+  },
+  "chats": {
+    "friends": "Trò chuyện bạn bè",
+    "group": "Trò chuyện nhóm",
+    "select": "Chọn một cuộc trò chuyện"
+  },
+  "apidocs": {},
+
+  "shortcuts": {
+    "title": "Phím tắt",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "Đi tới",
+    "reload": "Tải lại trang",
+    "cmd": "Bảng lệnh",
+    "logout": "Đăng xuất"
+  },
+  "sidemenu": {
+    "title": "Tùy chọn menu bên",
+    "options": "Các tùy chọn có sẵn",
+    "deleted": "Mục đã xóa",
+    "add": "Thêm mục mới",
+    "remove": "Xóa menu bên",
+    "reset": "Đặt lại mục",
+    "noshow": "Không có mục nào",
+    "route": "Đường dẫn",
+    "text": "Văn bản",
+    "anim": "Hoạt ảnh",
+    "submit": "Gửi"
+  },
+  "changepass": {
+    "title": "Đổi mật khẩu tại đây!"
+  },
+  "notifs": {
+    "seeall": "Xem tất cả",
+    "title": "Thông báo",
+    "home": "Về trang chủ"
+  },
+  "modals": {
+    "cmd": "Bảng lệnh",
+    "searchcmd": "Tìm lệnh...",
+    "grouppost": "Tạo bài đăng nhóm",
+    "post": "Tạo bài đăng",
+    "sideitem": "Thêm mục menu bên",
+    "creategroup": "Tạo nhóm",
+    "invite": "Mời người dùng",
+    "userseek": "Tìm người dùng...",
+    "members": "Thành viên",
+    "close": "Đóng",
+    "savechanges": "Lưu thay đổi"
+  },
+  "premature404": {
+    "post": "Không tìm thấy bài đăng",
+    "group": "Không tìm thấy nhóm",
+    "profile": "Không tìm thấy hồ sơ"
+  },
+  "posts": {
+    "attach": "Tệp đính kèm"
+  },
+  "tags": {
+    "usedby": "Được sử dụng bởi",
+    "nousers": "Chưa có người dùng",
+    "posts": "Bài đăng",
+    "noposts": "Không có bài đăng",
+    "used": "Đã dùng",
+    "times": "lần"
+  },
+  "notfound": {
+    "oops1": "Ôi, bạn đã làm hỏng nó!",
+    "oops2": "Thật là ngại ngùng...",
+    "prompt": "Bạn đang tìm gì vậy?",
+    "solution1": "Có lẽ bạn nên thử.",
+    "chat": "đi trò chuyện",
+    "issue": "báo lỗi",
+    "home": "hoặc về trang chủ",
+    "goback": "Quay lại"
+  }
+}

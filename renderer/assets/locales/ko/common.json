@@ -1,0 +1,257 @@
+{
+  "profile": {
+    "submit": "제출",
+    "addInfo": "추가 정보 입력",
+    "employment": "직업",
+    "noJob": "실업 상태",
+    "website": "웹사이트",
+    "noWebsite": "웹사이트가 없습니다",
+    "toggleSocial": "더 보기",
+    "hideSocial": "섹션 숨기기",
+    "back": "뒤로",
+    "reqsent": "요청 전송됨",
+    "addfr": "친구 추가",
+    "welcome": "환영합니다",
+    "worksat": "근무지"
+  },
+  "ctxmenus": {
+    "copyrel": "상대 경로 복사",
+    "goto": "경로로 이동",
+    "remove": "사이드 메뉴에서 제거",
+    "copytext": "텍스트 복사",
+    "pastetext": "텍스트 붙여넣기",
+    "selectall": "전체 선택",
+    "gohere": "여기로 이동"
+  },
+  "system": {
+    "file": "파일",
+    "reload": "새로고침",
+    "quit": "종료",
+    "view": "보기",
+    "devtools": "개발자 도구 토글",
+    "window": "창",
+    "minimize": "최소화",
+    "maximize": "최대화",
+    "close": "닫기"
+  },
+  "sidenav": {
+    "issues": "이슈",
+    "social": "소셜",
+    "chat": "채팅",
+    "groups": "그룹",
+    "roles": "역할",
+    "terminal": "터미널",
+    "upgrade": "업그레이드"
+  },
+  "issues": {
+    "issues": "이슈",
+    "create": "이슈 생성",
+    "update": "이슈 수정",
+    "submit": "제출",
+    "title": "제목",
+    "body": "내용",
+    "shortcuts": "전역 단축키는 폼 페이지에서 비활성화됩니다."
+  },
+  "register": {
+    "next": "다음",
+    "title1": "기본 정보",
+    "fname": "이름",
+    "lname": "성",
+    "email": "이메일",
+    "sex": "성별",
+    "title2": "프로필 정보",
+    "uname": "사용자 이름",
+    "pass": "비밀번호",
+    "pass2": "비밀번호 확인",
+    "title3": "자기소개",
+    "bio": "자기소개",
+    "title4": "개요",
+    "fullname": "전체 이름",
+    "dob": "생년월일",
+    "imageupl": "이미지 업로드됨",
+    "signup": "회원가입"
+  },
+  "profileoverview": {
+    "title": "프로필 개요",
+    "fname": "이름",
+    "lname": "성",
+    "email": "이메일",
+    "bio": "자기소개",
+    "edit": "편집",
+    "save": "공개 설정 저장"
+  },
+  "locale": {
+    "switch": "언어 변경"
+  },
+  "theme": {
+    "switch": "테마 변경",
+    "light": "라이트",
+    "paper": "페이퍼",
+    "contrast": "고대비",
+    "mono": "모노",
+    "terminal": "해커",
+    "jewel": "주얼",
+    "neon": "네온",
+    "pastel": "파스텔",
+    "warm": "웜",
+    "midnight": "미드나잇",
+    "ocean": "오션",
+    "sunset": "선셋",
+    "forest": "포레스트"
+  },
+  "fonts": {
+    "switchf": "폰트 변경",
+    "switchfs": "글꼴 크기 변경",
+    "sysdef": "시스템 기본"
+  },
+  "auth": {
+    "welcome": "Impulse에 오신 것을 환영합니다! 로그인하세요!",
+    "login": "로그인",
+    "identifier": "사용자 이름 또는 이메일",
+    "password": "비밀번호",
+    "remember_me": "로그인 상태 유지",
+    "submit_login": "로그인하기"
+  },
+  "nav": {
+    "login": "로그인",
+    "register": "회원가입",
+    "about": "정보",
+    "homepage": "홈페이지",
+    "settings": "설정",
+    "profile": "프로필",
+    "notifications": "알림",
+    "logout": "로그아웃",
+    "issues": "이슈",
+    "social": "소셜",
+    "chat": "채팅",
+    "videos": "비디오"
+  },
+  "settings": {
+    "basic": "기본 설정",
+    "account": "계정 정보",
+    "content": "콘텐츠 정책",
+    "additional": "추가 정보",
+    "terms": "이용 약관",
+    "theme": "테마 플레이그라운드",
+    "docs": "API 문서",
+    "shortcuts": "단축키",
+    "sidemenu": "사이드 메뉴",
+    "changepass": "비밀번호 변경"
+  },
+  "social": {
+    "search": "사용자 검색"
+  },
+  "groups": {
+    "search": "그룹 검색",
+    "create": "그룹 생성",
+    "memlen": "명",
+    "promote": "승급",
+    "kick": "추방",
+    "invite": "초대",
+    "name": "그룹 이름",
+    "about": "그룹 소개",
+    "addppl": "사람 추가",
+    "making": "생성 중...",
+    "make": "생성",
+    "reqadmin": "관리자 승인 필요",
+    "viewmems": "구성원 보기",
+    "leavegroup": "그룹 나가기",
+    "ngf": "그룹 없음",
+    "groupseek": "그룹 검색 중...",
+    "member": "구성원",
+    "accinv": "초대 수락",
+    "pend": "대기 중",
+    "reqjoin": "요청",
+    "join": "가입"
+  },
+  "about": {
+    "1": "Impulse에 오신 것을 환영합니다 — 소프트웨어 엔지니어로서의 여정의 결실입니다.",
+    "2": "이 애플리케이션은 10년 이상 개발되어 왔습니다. 개발자와 엔지니어를 위한 차세대 소셜 플랫폼을 만들겠다는 아이디어에서 시작되었습니다. 시간이 지나면서 그 비전은 변화하여, 더 집중되고 개인적인 형태의 데스크톱 애플리케이션으로 발전했습니다.",
+    "3": "단순한 NoSQL 기반 CRUD 앱으로 시작된 것이 이제는 신중하게 설계된 관계와 아키텍처를 가진 분산 시스템으로 성장했습니다.",
+    "4": "관심이 있다면 아래의 다른 프로젝트도 자유롭게 살펴보세요.",
+    "otherprojects": "내 다른 프로젝트",
+    "followme": "팔로우하기"
+  },
+  "postform": {
+    "init": "무슨 일이 있나요?",
+    "group": "그룹에 공유하기...",
+    "title": "제목",
+    "desc": "설명",
+    "files": "파일",
+    "post": "게시"
+  },
+  "chats": {
+    "friends": "친구 채팅",
+    "group": "그룹 채팅",
+    "select": "채팅 선택"
+  },
+  "apidocs": {},
+
+  "shortcuts": {
+    "title": "단축키",
+    "ctrl": "컨트롤 (Ctrl)",
+    "shift": "시프트",
+    "goto": "이동",
+    "reload": "페이지 새로고침",
+    "cmd": "명령 팔레트",
+    "logout": "로그아웃"
+  },
+  "sidemenu": {
+    "title": "사이드 메뉴 옵션",
+    "options": "사용 가능한 옵션",
+    "deleted": "삭제된 항목",
+    "add": "새 항목 추가",
+    "remove": "사이드 메뉴 제거",
+    "reset": "항목 초기화",
+    "noshow": "표시할 항목 없음",
+    "route": "경로",
+    "text": "텍스트",
+    "anim": "애니메이션",
+    "submit": "제출"
+  },
+  "changepass": {
+    "title": "여기에서 비밀번호 변경!"
+  },
+  "notifs": {
+    "seeall": "전체 보기",
+    "title": "알림",
+    "home": "홈으로"
+  },
+  "modals": {
+    "cmd": "명령 팔레트",
+    "searchcmd": "명령 검색...",
+    "grouppost": "그룹 게시물 생성",
+    "post": "게시물 생성",
+    "sideitem": "사이드 메뉴 항목 추가",
+    "creategroup": "그룹 생성",
+    "invite": "사용자 초대",
+    "userseek": "사용자 검색...",
+    "members": "구성원",
+    "close": "닫기",
+    "savechanges": "변경 사항 저장"
+  },
+  "premature404": {
+    "post": "게시물을 찾을 수 없음",
+    "group": "그룹을 찾을 수 없음",
+    "profile": "프로필을 찾을 수 없음"
+  },
+  "posts": { "attach": "첨부파일" },
+  "tags": {
+    "usedby": "사용됨",
+    "nousers": "아직 사용자 없음",
+    "posts": "게시물",
+    "noposts": "게시물이 없음",
+    "used": "사용됨",
+    "times": "회"
+  },
+  "notfound": {
+    "oops1": "이런, 망가뜨렸네요!",
+    "oops2": "이건 좀 당황스럽네요...",
+    "prompt": "무엇을 찾고 있었나요?",
+    "solution1": "아마 이렇게 해보세요.",
+    "chat": "채팅하기",
+    "issue": "이슈로 등록",
+    "home": "또는 홈으로",
+    "goback": "대신 돌아가기"
+  }
+}

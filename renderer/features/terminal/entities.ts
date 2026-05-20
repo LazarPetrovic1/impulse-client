@@ -1,0 +1,25 @@
+export const entities = [
+  // "blocked-people",
+  // "chat-participants",
+  "chats",
+  // "comment",
+  // "follow",
+  // "friend-request",
+  // "group-member",
+  "group",
+  "issues",
+  // "media",
+  // "mention",
+  // "message-reaction",
+  // "message",
+  "notifs",
+  // "post-tag",
+  "posts",
+  "profile",
+  // "reaction",
+  // "tagname",
+  // "user-options",
+  "users",
+] as const;
+
+export type EntityName = (typeof entities)[number];

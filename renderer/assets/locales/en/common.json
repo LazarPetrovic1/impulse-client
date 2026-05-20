@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "Submit",
+    "addInfo": "Add more information",
+    "employment": "Employment",
+    "noJob": "Unemployed",
+    "website": "Website",
+    "noWebsite": "I don't have a website",
+    "toggleSocial": "Show more",
+    "hideSocial": "Hide section",
+    "back": "Back",
+    "reqsent": "Request Sent",
+    "addfr": "Add friend",
+    "welcome": "Welcome",
+    "worksat": "Works at"
+  },
+  "ctxmenus": {
+    "copyrel": "Copy relative path",
+    "goto": "Go to path",
+    "remove": "Remove from side menu",
+    "copytext": "Copy text",
+    "pastetext": "Paste text",
+    "selectall": "Select all",
+    "gohere": "Go here"
+  },
+  "system": {
+    "file": "File",
+    "reload": "Reload",
+    "quit": "Quit",
+    "view": "View",
+    "devtools": "Toggle Developer Tools",
+    "window": "Window",
+    "minimize": "Minimize",
+    "maximize": "Maximize",
+    "close": "Close"
+  },
+  "sidenav": {
+    "issues": "Issues",
+    "social": "Social",
+    "chat": "Chat",
+    "groups": "Groups",
+    "roles": "Roles",
+    "terminal": "Terminal",
+    "upgrade": "Upgrade"
+  },
+  "issues": {
+    "issues": "Issues",
+    "create": "Create Issue",
+    "update": "Update Issue",
+    "submit": "Submit",
+    "title": "Title",
+    "body": "Content",
+    "shortcuts": "Global shortcuts are disabled on form pages."
+  },
+  "register": {
+    "next": "Proceed",
+    "title1": "Basic information",
+    "fname": "First name",
+    "lname": "Last name",
+    "email": "Email",
+    "sex": "Sex",
+    "title2": "Profile Information",
+    "uname": "Username",
+    "pass": "Password",
+    "pass2": "Confirm password",
+    "title3": "Tell us a bit about yourself",
+    "bio": "Your bio",
+    "title4": "Overview",
+    "fullname": "Full name",
+    "dob": "Date of birth",
+    "imageupl": "Image uploaded",
+    "signup": "Sign up"
+  },
+  "profileoverview": {
+    "title": "Profile overview",
+    "fname": "First name",
+    "lname": "Last name",
+    "email": "Email",
+    "bio": "Bio",
+    "edit": "Edit",
+    "save": "Save visibility"
+  },
+  "locale": {
+    "switch": "Change language"
+  },
+  "theme": {
+    "switch": "Change theme",
+    "light": "Light",
+    "paper": "Paper",
+    "contrast": "Contrast",
+    "mono": "Mono",
+    "terminal": "Hacker",
+    "jewel": "Jewel",
+    "neon": "Neon",
+    "pastel": "Pastel",
+    "warm": "Warm",
+    "midnight": "Midnight",
+    "ocean": "Ocean",
+    "sunset": "Sunset",
+    "forest": "Forest"
+  },
+  "fonts": {
+    "switchf": "Change font",
+    "switchfs": "Change font size",
+    "sysdef": "System Default"
+  },
+  "auth": {
+    "welcome": "Welcome to Impulse! Please log in!",
+    "login": "Login",
+    "identifier": "Username or email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "submit_login": "Log me in!"
+  },
+  "nav": {
+    "login": "Login",
+    "register": "Register",
+    "about": "About",
+    "homepage": "Homepage",
+    "settings": "Settings",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "logout": "Log out",
+    "issues": "Issues",
+    "social": "Social",
+    "chat": "Chat",
+    "videos": "Videos"
+  },
+  "settings": {
+    "basic": "Basic Settings",
+    "account": "Account Information",
+    "content": "Content Policy",
+    "additional": "Additional Information",
+    "terms": "Terms and Conditions",
+    "theme": "Theme Playground",
+    "docs": "API Docs",
+    "shortcuts": "Shortcuts",
+    "sidemenu": "Side Menu",
+    "changepass": "Change Password"
+  },
+  "social": {
+    "search": "Search for people"
+  },
+  "groups": {
+    "search": "Search for groups",
+    "create": "Create a group",
+    "memlen": "members",
+    "promote": "Promote",
+    "kick": "Kick",
+    "invite": "Invite",
+    "name": "Group name",
+    "about": "About the group",
+    "addppl": "Add people",
+    "making": "Creating...",
+    "make": "Create",
+    "reqadmin": "Require admin approval",
+    "viewmems": "View members",
+    "leavegroup": "Leave group",
+    "ngf": "No groups found",
+    "groupseek": "Searching groups...",
+    "member": "Member",
+    "accinv": "Accept Invite",
+    "pend": "Pending",
+    "reqjoin": "Request",
+    "join": "Join"
+  },
+  "about": {
+    "1": "Welcome to Impulse — the culmination of my journey as a software engineer.",
+    "2": "This application has been in development for over a decade. It started as an idea to build a next-generation social platform tailored for developers and engineers. Over time, that vision evolved into something different: a desktop application that still carries a social spirit, just in a more focused and personal way.",
+    "3": "What began as a simple CRUD app backed by a NoSQL database has grown into a distributed system, with carefully designed relationships and architecture.",
+    "4": "If you're interested, feel free to explore some of my other projects below.",
+    "otherprojects": "My other projects",
+    "followme": "Follow me"
+  },
+  "postform": {
+    "init": "What's going on?",
+    "group": "Share something with the group...",
+    "title": "Title",
+    "desc": "Description",
+    "files": "Files",
+    "post": "Post"
+  },
+  "chats": {
+    "friends": "Friends' chats",
+    "group": "Group chats",
+    "select": "Select a chat"
+  },
+  "apidocs": {
+
+  },
+  "shortcuts": {
+    "title": "Shortcuts",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "Go to",
+    "reload": "Reload page",
+    "cmd": "Command palette",
+    "logout": "Log out"
+  },
+  "sidemenu": {
+    "title": "Side-menu options",
+    "options": "Options available",
+    "deleted": "Deleted items",
+    "add": "Add new item(s)",
+    "remove": "Remove side-menu",
+    "reset": "Reset items",
+    "noshow": "No items to show",
+    "route": "Route",
+    "text": "Text",
+    "anim": "Animation",
+    "submit": "Submit"
+  },
+  "changepass": {
+    "title": "Change password here!"
+  },
+  "notifs": {
+    "seeall": "See all",
+    "title": "Notifications",
+    "home": "Go home"
+  },
+  "modals": {
+    "cmd": "Command palette",
+    "searchcmd": "Search commands...",
+    "grouppost": "Create a group post",
+    "post": "Create a post",
+    "sideitem": "Add a new side menu item",
+    "creategroup": "Create a group",
+    "invite": "Invite users",
+    "userseek": "Search users...",
+    "members": "Members",
+    "close": "Close",
+    "savechanges": "Save changes"
+  },
+  "premature404": {
+    "post": "Post not found",
+    "group": "Group not found",
+    "profile": "No profile found"
+  },
+  "posts": { "attach": "Attachment" },
+  "tags": {
+    "usedby": "Used by",
+    "nousers": "No users yet",
+    "posts": "Posts",
+    "noposts": "No posts found",
+    "used": "Used",
+    "times": "time(s)"
+  },
+  "notfound": {
+    "oops1": "Oops, you broke it!",
+    "oops2": "Well, isn't this embarrassing...",
+    "prompt": "What were you searching for again?",
+    "solution1": "Maybe you should.",
+    "chat": "go chatting",
+    "issue": "file this as an issue",
+    "home": "or go home",
+    "goback": "Go back instead"
+  }
+}

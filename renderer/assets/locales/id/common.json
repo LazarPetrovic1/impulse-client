@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "Kirim",
+    "addInfo": "Tambah informasi",
+    "employment": "Pekerjaan",
+    "noJob": "Tidak bekerja",
+    "website": "Situs web",
+    "noWebsite": "Saya tidak punya situs web",
+    "toggleSocial": "Tampilkan lebih banyak",
+    "hideSocial": "Sembunyikan bagian",
+    "back": "Kembali",
+    "reqsent": "Permintaan terkirim",
+    "addfr": "Tambah teman",
+    "welcome": "Selamat datang",
+    "worksat": "Bekerja di"
+  },
+  "ctxmenus": {
+    "copyrel": "Salin path relatif",
+    "goto": "Pergi ke path",
+    "remove": "Hapus dari menu samping",
+    "copytext": "Salin teks",
+    "pastetext": "Tempel teks",
+    "selectall": "Pilih semua",
+    "gohere": "Pergi ke sini"
+  },
+  "system": {
+    "file": "Berkas",
+    "reload": "Muat ulang",
+    "quit": "Keluar",
+    "view": "Tampilan",
+    "devtools": "Alihkan Alat Pengembang",
+    "window": "Jendela",
+    "minimize": "Minimalkan",
+    "maximize": "Maksimalkan",
+    "close": "Tutup"
+  },
+  "sidenav": {
+    "issues": "Masalah",
+    "social": "Sosial",
+    "chat": "Obrolan",
+    "groups": "Grup",
+    "roles": "Peran",
+    "terminal": "Terminal",
+    "upgrade": "Tingkatkan"
+  },
+  "issues": {
+    "issues": "Masalah",
+    "create": "Buat masalah",
+    "update": "Perbarui masalah",
+    "submit": "Kirim",
+    "title": "Judul",
+    "body": "Isi",
+    "shortcuts": "Pintasan global dinonaktifkan pada halaman formulir."
+  },
+  "register": {
+    "next": "Lanjutkan",
+    "title1": "Informasi dasar",
+    "fname": "Nama depan",
+    "lname": "Nama belakang",
+    "email": "Email",
+    "sex": "Jenis kelamin",
+    "title2": "Informasi profil",
+    "uname": "Nama pengguna",
+    "pass": "Kata sandi",
+    "pass2": "Konfirmasi kata sandi",
+    "title3": "Ceritakan sedikit tentang diri Anda",
+    "bio": "Bio Anda",
+    "title4": "Ringkasan",
+    "fullname": "Nama lengkap",
+    "dob": "Tanggal lahir",
+    "imageupl": "Gambar diunggah",
+    "signup": "Daftar"
+  },
+  "profileoverview": {
+    "title": "Ringkasan profil",
+    "fname": "Nama depan",
+    "lname": "Nama belakang",
+    "email": "Email",
+    "bio": "Bio",
+    "edit": "Edit",
+    "save": "Simpan visibilitas"
+  },
+  "locale": {
+    "switch": "Ganti bahasa"
+  },
+  "theme": {
+    "switch": "Ganti tema",
+    "light": "Terang",
+    "paper": "Kertas",
+    "contrast": "Kontras",
+    "mono": "Mono",
+    "terminal": "Hacker",
+    "jewel": "Permata",
+    "neon": "Neon",
+    "pastel": "Pastel",
+    "warm": "Hangat",
+    "midnight": "Tengah malam",
+    "ocean": "Laut",
+    "sunset": "Senja",
+    "forest": "Hutan"
+  },
+  "fonts": {
+    "switchf": "Ganti font",
+    "switchfs": "Ganti ukuran font",
+    "sysdef": "Default sistem"
+  },
+  "auth": {
+    "welcome": "Selamat datang di Impulse! Silakan masuk!",
+    "login": "Masuk",
+    "identifier": "Nama pengguna atau email",
+    "password": "Kata sandi",
+    "remember_me": "Ingat saya",
+    "submit_login": "Masuk!"
+  },
+  "nav": {
+    "login": "Masuk",
+    "register": "Daftar",
+    "about": "Tentang",
+    "homepage": "Beranda",
+    "settings": "Pengaturan",
+    "profile": "Profil",
+    "notifications": "Notifikasi",
+    "logout": "Keluar",
+    "issues": "Masalah",
+    "social": "Sosial",
+    "chat": "Obrolan",
+    "videos": "Video"
+  },
+  "settings": {
+    "basic": "Pengaturan dasar",
+    "account": "Informasi akun",
+    "content": "Kebijakan konten",
+    "additional": "Informasi tambahan",
+    "terms": "Syarat dan ketentuan",
+    "theme": "Area tema",
+    "docs": "Dokumentasi API",
+    "shortcuts": "Pintasan",
+    "sidemenu": "Menu samping",
+    "changepass": "Ubah kata sandi"
+  },
+  "social": {
+    "search": "Cari orang"
+  },
+  "groups": {
+    "search": "Cari grup",
+    "create": "Buat grup",
+    "memlen": "anggota",
+    "promote": "Promosikan",
+    "kick": "Keluarkan",
+    "invite": "Undang",
+    "name": "Nama grup",
+    "about": "Tentang grup",
+    "addppl": "Tambah orang",
+    "making": "Membuat...",
+    "make": "Buat",
+    "reqadmin": "Perlu persetujuan admin",
+    "viewmems": "Lihat anggota",
+    "leavegroup": "Keluar dari grup",
+    "ngf": "Tidak ada grup ditemukan",
+    "groupseek": "Mencari grup...",
+    "member": "Anggota",
+    "accinv": "Terima undangan",
+    "pend": "Menunggu",
+    "reqjoin": "Minta bergabung",
+    "join": "Gabung"
+  },
+  "about": {
+    "1": "Selamat datang di Impulse — hasil perjalanan saya sebagai software engineer.",
+    "2": "Aplikasi ini telah dikembangkan selama lebih dari satu dekade. Awalnya dimulai sebagai ide untuk membangun platform sosial generasi berikutnya untuk developer dan engineer. Seiring waktu, visi itu berkembang menjadi sesuatu yang berbeda: aplikasi desktop yang tetap membawa semangat sosial, namun lebih fokus dan personal.",
+    "3": "Apa yang dimulai sebagai aplikasi CRUD sederhana dengan database NoSQL telah berkembang menjadi sistem terdistribusi dengan relasi dan arsitektur yang dirancang dengan hati-hati.",
+    "4": "Jika tertarik, silakan jelajahi beberapa proyek saya yang lain di bawah ini.",
+    "otherprojects": "Proyek saya yang lain",
+    "followme": "Ikuti saya"
+  },
+  "postform": {
+    "init": "Apa yang sedang terjadi?",
+    "group": "Bagikan sesuatu dengan grup...",
+    "title": "Judul",
+    "desc": "Deskripsi",
+    "files": "Berkas",
+    "post": "Posting"
+  },
+  "chats": {
+    "friends": "Obrolan teman",
+    "group": "Obrolan grup",
+    "select": "Pilih obrolan"
+  },
+  "apidocs": {},
+  "shortcuts": {
+    "title": "Pintasan",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "Pergi ke",
+    "reload": "Muat ulang halaman",
+    "cmd": "Palet perintah",
+    "logout": "Keluar"
+  },
+  "sidemenu": {
+    "title": "Opsi menu samping",
+    "options": "Opsi tersedia",
+    "deleted": "Item terhapus",
+    "add": "Tambah item baru",
+    "remove": "Hapus menu samping",
+    "reset": "Atur ulang item",
+    "noshow": "Tidak ada item untuk ditampilkan",
+    "route": "Rute",
+    "text": "Teks",
+    "anim": "Animasi",
+    "submit": "Kirim"
+  },
+  "changepass": {
+    "title": "Ubah kata sandi di sini!"
+  },
+  "notifs": {
+    "seeall": "Lihat semua",
+    "title": "Notifikasi",
+    "home": "Ke beranda"
+  },
+  "modals": {
+    "cmd": "Palet perintah",
+    "searchcmd": "Cari perintah...",
+    "grouppost": "Buat posting grup",
+    "post": "Buat posting",
+    "sideitem": "Tambah item menu samping baru",
+    "creategroup": "Buat grup",
+    "invite": "Undang pengguna",
+    "userseek": "Cari pengguna...",
+    "members": "Anggota",
+    "close": "Tutup",
+    "savechanges": "Simpan perubahan"
+  },
+  "premature404": {
+    "post": "Posting tidak ditemukan",
+    "group": "Grup tidak ditemukan",
+    "profile": "Profil tidak ditemukan"
+  },
+  "posts": {
+    "attach": "Lampiran"
+  },
+  "tags": {
+    "usedby": "Digunakan oleh",
+    "nousers": "Belum ada pengguna",
+    "posts": "Posting",
+    "noposts": "Tidak ada posting ditemukan",
+    "used": "Digunakan",
+    "times": "kali"
+  },
+  "notfound": {
+    "oops1": "Ups, kamu merusaknya!",
+    "oops2": "Wah, ini memalukan...",
+    "prompt": "Apa yang kamu cari tadi?",
+    "solution1": "Mungkin kamu harus",
+    "chat": "mulai mengobrol",
+    "issue": "laporkan sebagai masalah",
+    "home": "atau kembali ke beranda",
+    "goback": "Kembali saja"
+  }
+}

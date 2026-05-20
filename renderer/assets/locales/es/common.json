@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "Enviar",
+    "addInfo": "Añadir más información",
+    "employment": "Empleo",
+    "noJob": "Desempleado",
+    "website": "Sitio web",
+    "noWebsite": "No tengo sitio web",
+    "toggleSocial": "Mostrar más",
+    "hideSocial": "Ocultar sección",
+    "back": "Atrás",
+    "reqsent": "Solicitud enviada",
+    "addfr": "Añadir amigo",
+    "welcome": "Bienvenido",
+    "worksat": "Trabaja en"
+  },
+  "ctxmenus": {
+    "copyrel": "Copiar ruta relativa",
+    "goto": "Ir a la ruta",
+    "remove": "Eliminar del menú lateral",
+    "copytext": "Copiar texto",
+    "pastetext": "Pegar texto",
+    "selectall": "Seleccionar todo",
+    "gohere": "Ir aquí"
+  },
+  "system": {
+    "file": "Archivo",
+    "reload": "Recargar",
+    "quit": "Salir",
+    "view": "Ver",
+    "devtools": "Alternar herramientas de desarrollo",
+    "window": "Ventana",
+    "minimize": "Minimizar",
+    "maximize": "Maximizar",
+    "close": "Cerrar"
+  },
+  "sidenav": {
+    "issues": "Incidencias",
+    "social": "Social",
+    "chat": "Chat",
+    "groups": "Grupos",
+    "roles": "Roles",
+    "terminal": "Terminal",
+    "upgrade": "Mejorar"
+  },
+  "issues": {
+    "issues": "Incidencias",
+    "create": "Crear incidencia",
+    "update": "Actualizar incidencia",
+    "submit": "Enviar",
+    "title": "Título",
+    "body": "Contenido",
+    "shortcuts": "Los atajos globales están desactivados en las páginas de formularios."
+  },
+  "register": {
+    "next": "Continuar",
+    "title1": "Información básica",
+    "fname": "Nombre",
+    "lname": "Apellido",
+    "email": "Correo electrónico",
+    "sex": "Sexo",
+    "title2": "Información del perfil",
+    "uname": "Nombre de usuario",
+    "pass": "Contraseña",
+    "pass2": "Confirmar contraseña",
+    "title3": "Cuéntanos un poco sobre ti",
+    "bio": "Biografía",
+    "title4": "Resumen",
+    "fullname": "Nombre completo",
+    "dob": "Fecha de nacimiento",
+    "imageupl": "Imagen subida",
+    "signup": "Registrarse"
+  },
+  "profileoverview": {
+    "title": "Resumen del perfil",
+    "fname": "Nombre",
+    "lname": "Apellido",
+    "email": "Correo electrónico",
+    "bio": "Biografía",
+    "edit": "Editar",
+    "save": "Guardar visibilidad"
+  },
+  "locale": {
+    "switch": "Cambiar idioma"
+  },
+  "theme": {
+    "switch": "Cambiar tema",
+    "light": "Claro",
+    "paper": "Papel",
+    "contrast": "Contraste",
+    "mono": "Mono",
+    "terminal": "Hacker",
+    "jewel": "Joya",
+    "neon": "Neón",
+    "pastel": "Pastel",
+    "warm": "Cálido",
+    "midnight": "Medianoche",
+    "ocean": "Océano",
+    "sunset": "Atardecer",
+    "forest": "Bosque"
+  },
+  "fonts": {
+    "switchf": "Cambiar fuente",
+    "switchfs": "Cambiar tamaño de fuente",
+    "sysdef": "Sistema"
+  },
+  "auth": {
+    "welcome": "¡Bienvenido a Impulse! Inicia sesión.",
+    "login": "Iniciar sesión",
+    "identifier": "Usuario o correo",
+    "password": "Contraseña",
+    "remember_me": "Recuérdame",
+    "submit_login": "Entrar"
+  },
+  "nav": {
+    "login": "Inicio de sesión",
+    "register": "Registro",
+    "about": "Acerca de",
+    "homepage": "Inicio",
+    "settings": "Ajustes",
+    "profile": "Perfil",
+    "notifications": "Notificaciones",
+    "logout": "Cerrar sesión",
+    "issues": "Incidencias",
+    "social": "Social",
+    "chat": "Chat",
+    "videos": "Videos"
+  },
+  "settings": {
+    "basic": "Ajustes básicos",
+    "account": "Información de la cuenta",
+    "content": "Política de contenido",
+    "additional": "Información adicional",
+    "terms": "Términos y condiciones",
+    "theme": "Tema",
+    "docs": "Documentación API",
+    "shortcuts": "Atajos",
+    "sidemenu": "Menú lateral",
+    "changepass": "Cambiar contraseña"
+  },
+  "social": {
+    "search": "Buscar personas"
+  },
+  "groups": {
+    "search": "Buscar grupos",
+    "create": "Crear grupo",
+    "memlen": "miembros",
+    "promote": "Promover",
+    "kick": "Expulsar",
+    "invite": "Invitar",
+    "name": "Nombre del grupo",
+    "about": "Sobre el grupo",
+    "addppl": "Añadir personas",
+    "making": "Creando...",
+    "make": "Crear",
+    "reqadmin": "Requiere aprobación de admin",
+    "viewmems": "Ver miembros",
+    "leavegroup": "Salir del grupo",
+    "ngf": "No se encontraron grupos",
+    "groupseek": "Buscando grupos...",
+    "member": "Miembro",
+    "accinv": "Aceptar invitación",
+    "pend": "Pendiente",
+    "reqjoin": "Solicitar",
+    "join": "Unirse"
+  },
+  "about": {
+    "1": "Bienvenido a Impulse — la culminación de mi trayectoria como ingeniero de software.",
+    "2": "Esta aplicación ha estado en desarrollo durante más de una década. Comenzó como una idea para crear una plataforma social de nueva generación para desarrolladores e ingenieros. Con el tiempo, esa visión evolucionó hacia algo diferente: una aplicación de escritorio que aún mantiene un espíritu social, pero de una forma más enfocada y personal.",
+    "3": "Lo que comenzó como una simple aplicación CRUD basada en una base de datos NoSQL ha evolucionado hasta convertirse en un sistema distribuido con relaciones y arquitectura cuidadosamente diseñadas.",
+    "4": "Si te interesa, puedes explorar algunos de mis otros proyectos abajo.",
+    "otherprojects": "Mis otros proyectos",
+    "followme": "Sígueme"
+  },
+  "postform": {
+    "init": "¿Qué está pasando?",
+    "group": "Comparte algo con el grupo...",
+    "title": "Título",
+    "desc": "Descripción",
+    "files": "Archivos",
+    "post": "Publicar"
+  },
+  "chats": {
+    "friends": "Chats de amigos",
+    "group": "Chats de grupo",
+    "select": "Selecciona un chat"
+  },
+  "apidocs": {},
+  "shortcuts": {
+    "title": "Atajos",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "Ir a",
+    "reload": "Recargar página",
+    "cmd": "Paleta de comandos",
+    "logout": "Cerrar sesión"
+  },
+  "sidemenu": {
+    "title": "Opciones del menú lateral",
+    "options": "Opciones disponibles",
+    "deleted": "Elementos eliminados",
+    "add": "Añadir nuevo(s) elemento(s)",
+    "remove": "Eliminar menú lateral",
+    "reset": "Restablecer elementos",
+    "noshow": "No hay elementos para mostrar",
+    "route": "Ruta",
+    "text": "Texto",
+    "anim": "Animación",
+    "submit": "Enviar"
+  },
+  "changepass": {
+    "title": "Cambiar contraseña aquí"
+  },
+  "notifs": {
+    "seeall": "Ver todo",
+    "title": "Notificaciones",
+    "home": "Ir al inicio"
+  },
+  "modals": {
+    "cmd": "Paleta de comandos",
+    "searchcmd": "Buscar comandos...",
+    "grouppost": "Crear publicación de grupo",
+    "post": "Crear publicación",
+    "sideitem": "Añadir elemento al menú lateral",
+    "creategroup": "Crear grupo",
+    "invite": "Invitar usuarios",
+    "userseek": "Buscar usuarios...",
+    "members": "Miembros",
+    "close": "Cerrar",
+    "savechanges": "Guardar cambios"
+  },
+  "premature404": {
+    "post": "Publicación no encontrada",
+    "group": "Grupo no encontrado",
+    "profile": "Perfil no encontrado"
+  },
+  "posts": {
+    "attach": "Adjunto"
+  },
+  "tags": {
+    "usedby": "Usado por",
+    "nousers": "Aún sin usuarios",
+    "posts": "Publicaciones",
+    "noposts": "No se encontraron publicaciones",
+    "used": "Usado",
+    "times": "vez/veces"
+  },
+  "notfound": {
+    "oops1": "¡Ups, lo rompiste!",
+    "oops2": "Bueno, esto es incómodo...",
+    "prompt": "¿Qué estabas buscando?",
+    "solution1": "Quizá deberías",
+    "chat": "ir al chat",
+    "issue": "reportarlo como problema",
+    "home": "o volver al inicio",
+    "goback": "Volver atrás"
+  }
+}

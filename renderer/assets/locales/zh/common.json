@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "提交",
+    "addInfo": "添加更多信息",
+    "employment": "工作",
+    "noJob": "失业",
+    "website": "网站",
+    "noWebsite": "我没有网站",
+    "toggleSocial": "显示更多",
+    "hideSocial": "隐藏部分",
+    "back": "返回",
+    "reqsent": "请求已发送",
+    "addfr": "添加好友",
+    "welcome": "欢迎",
+    "worksat": "就职于"
+  },
+  "ctxmenus": {
+    "copyrel": "复制相对路径",
+    "goto": "跳转到路径",
+    "remove": "从侧边栏移除",
+    "copytext": "复制文本",
+    "pastetext": "粘贴文本",
+    "selectall": "全选",
+    "gohere": "跳转到此处"
+  },
+  "system": {
+    "file": "文件",
+    "reload": "重新加载",
+    "quit": "退出",
+    "view": "视图",
+    "devtools": "切换开发者工具",
+    "window": "窗口",
+    "minimize": "最小化",
+    "maximize": "最大化",
+    "close": "关闭"
+  },
+  "sidenav": {
+    "issues": "问题",
+    "social": "社交",
+    "chat": "聊天",
+    "groups": "群组",
+    "roles": "角色",
+    "terminal": "终端",
+    "upgrade": "升级"
+  },
+  "issues": {
+    "issues": "问题",
+    "create": "创建问题",
+    "update": "更新问题",
+    "submit": "提交",
+    "title": "标题",
+    "body": "内容",
+    "shortcuts": "在表单页面中全局快捷键已禁用。"
+  },
+  "register": {
+    "next": "继续",
+    "title1": "基本信息",
+    "fname": "名",
+    "lname": "姓",
+    "email": "邮箱",
+    "sex": "性别",
+    "title2": "个人资料信息",
+    "uname": "用户名",
+    "pass": "密码",
+    "pass2": "确认密码",
+    "title3": "介绍一下自己",
+    "bio": "个人简介",
+    "title4": "概览",
+    "fullname": "全名",
+    "dob": "出生日期",
+    "imageupl": "图片已上传",
+    "signup": "注册"
+  },
+  "profileoverview": {
+    "title": "个人资料概览",
+    "fname": "名",
+    "lname": "姓",
+    "email": "邮箱",
+    "bio": "简介",
+    "edit": "编辑",
+    "save": "保存可见性"
+  },
+  "locale": {
+    "switch": "切换语言"
+  },
+  "theme": {
+    "switch": "切换主题",
+    "light": "浅色",
+    "paper": "纸张",
+    "contrast": "高对比度",
+    "mono": "单色",
+    "terminal": "黑客风",
+    "jewel": "宝石",
+    "neon": "霓虹",
+    "pastel": "柔和",
+    "warm": "温暖",
+    "midnight": "午夜",
+    "ocean": "海洋",
+    "sunset": "日落",
+    "forest": "森林"
+  },
+  "fonts": {
+    "switchf": "切换字体",
+    "switchfs": "切换字体大小",
+    "sysdef": "系统默认"
+  },
+  "auth": {
+    "welcome": "欢迎来到 Impulse！请登录！",
+    "login": "登录",
+    "identifier": "用户名或邮箱",
+    "password": "密码",
+    "remember_me": "记住我",
+    "submit_login": "登录"
+  },
+  "nav": {
+    "login": "登录",
+    "register": "注册",
+    "about": "关于",
+    "homepage": "主页",
+    "settings": "设置",
+    "profile": "个人资料",
+    "notifications": "通知",
+    "logout": "退出登录",
+    "issues": "问题",
+    "social": "社交",
+    "chat": "聊天",
+    "videos": "视频"
+  },
+  "settings": {
+    "basic": "基础设置",
+    "account": "账户信息",
+    "content": "内容政策",
+    "additional": "附加信息",
+    "terms": "条款与条件",
+    "theme": "主题设置",
+    "docs": "API 文档",
+    "shortcuts": "快捷键",
+    "sidemenu": "侧边菜单",
+    "changepass": "修改密码"
+  },
+  "social": {
+    "search": "搜索用户"
+  },
+  "groups": {
+    "search": "搜索群组",
+    "create": "创建群组",
+    "memlen": "成员",
+    "promote": "提升权限",
+    "kick": "踢出",
+    "invite": "邀请",
+    "name": "群组名称",
+    "about": "关于群组",
+    "addppl": "添加成员",
+    "making": "创建中...",
+    "make": "创建",
+    "reqadmin": "需要管理员批准",
+    "viewmems": "查看成员",
+    "leavegroup": "退出群组",
+    "ngf": "未找到群组",
+    "groupseek": "搜索群组中...",
+    "member": "成员",
+    "accinv": "接受邀请",
+    "pend": "待处理",
+    "reqjoin": "申请",
+    "join": "加入"
+  },
+  "about": {
+    "1": "欢迎来到 Impulse —— 我作为软件工程师旅程的结晶。",
+    "2": "这个应用已经开发了十多年。它最初是一个面向开发者和工程师的下一代社交平台构想。随着时间推移，这一愿景逐渐演变为一个桌面应用，但仍然保留社交属性，只是更加专注与个人化。",
+    "3": "它最初只是一个基于 NoSQL 数据库的简单 CRUD 应用，如今已经发展为一个具有精心设计关系与架构的分布式系统。",
+    "4": "如果你感兴趣，可以在下方查看我的其他项目。",
+    "otherprojects": "我的其他项目",
+    "followme": "关注我"
+  },
+  "postform": {
+    "init": "发生了什么？",
+    "group": "与群组分享内容...",
+    "title": "标题",
+    "desc": "描述",
+    "files": "文件",
+    "post": "发布"
+  },
+  "chats": {
+    "friends": "好友聊天",
+    "group": "群组聊天",
+    "select": "选择聊天"
+  },
+  "apidocs": {},
+  "shortcuts": {
+    "title": "快捷键",
+    "ctrl": "Control (Ctrl)",
+    "shift": "Shift",
+    "goto": "跳转",
+    "reload": "重新加载页面",
+    "cmd": "命令面板",
+    "logout": "退出登录"
+  },
+  "sidemenu": {
+    "title": "侧边菜单选项",
+    "options": "可用选项",
+    "deleted": "已删除项目",
+    "add": "添加新项目",
+    "remove": "移除侧边菜单",
+    "reset": "重置项目",
+    "noshow": "没有可显示项目",
+    "route": "路由",
+    "text": "文本",
+    "anim": "动画",
+    "submit": "提交"
+  },
+  "changepass": {
+    "title": "在此修改密码！"
+  },
+  "notifs": {
+    "seeall": "查看全部",
+    "title": "通知",
+    "home": "返回主页"
+  },
+  "modals": {
+    "cmd": "命令面板",
+    "searchcmd": "搜索命令...",
+    "grouppost": "创建群组帖子",
+    "post": "创建帖子",
+    "sideitem": "添加侧边菜单项",
+    "creategroup": "创建群组",
+    "invite": "邀请用户",
+    "userseek": "搜索用户...",
+    "members": "成员",
+    "close": "关闭",
+    "savechanges": "保存更改"
+  },
+  "premature404": {
+    "post": "未找到帖子",
+    "group": "未找到群组",
+    "profile": "未找到个人资料"
+  },
+  "posts": {
+    "attach": "附件"
+  },
+  "tags": {
+    "usedby": "使用者",
+    "nousers": "暂无用户",
+    "posts": "帖子",
+    "noposts": "未找到帖子",
+    "used": "已使用",
+    "times": "次"
+  },
+  "notfound": {
+    "oops1": "糟糕，你把它弄坏了！",
+    "oops2": "这有点尴尬……",
+    "prompt": "你刚才在找什么？",
+    "solution1": "也许你应该",
+    "chat": "去聊天",
+    "issue": "提交问题",
+    "home": "或者回到主页",
+    "goback": "返回上一页"
+  }
+}

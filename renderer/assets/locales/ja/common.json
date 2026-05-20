@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "submit": "送信",
+    "addInfo": "情報を追加",
+    "employment": "勤務先",
+    "noJob": "無職",
+    "website": "ウェブサイト",
+    "noWebsite": "ウェブサイトなし",
+    "toggleSocial": "さらに表示",
+    "hideSocial": "非表示",
+    "back": "戻る",
+    "reqsent": "リクエスト送信済み",
+    "addfr": "友達を追加",
+    "welcome": "ようこそ",
+    "worksat": "勤務先"
+  },
+  "ctxmenus": {
+    "copyrel": "相対パスをコピー",
+    "goto": "パスへ移動",
+    "remove": "サイドメニューから削除",
+    "copytext": "テキストをコピー",
+    "pastetext": "テキストを貼り付け",
+    "selectall": "すべて選択",
+    "gohere": "ここへ移動"
+  },
+  "system": {
+    "file": "ファイル",
+    "reload": "再読み込み",
+    "quit": "終了",
+    "view": "表示",
+    "devtools": "開発者ツールの切替",
+    "window": "ウィンドウ",
+    "minimize": "最小化",
+    "maximize": "最大化",
+    "close": "閉じる"
+  },
+  "sidenav": {
+    "issues": "課題",
+    "social": "ソーシャル",
+    "chat": "チャット",
+    "groups": "グループ",
+    "roles": "ロール",
+    "terminal": "ターミナル",
+    "upgrade": "アップグレード"
+  },
+  "issues": {
+    "issues": "課題",
+    "create": "課題を作成",
+    "update": "課題を更新",
+    "submit": "送信",
+    "title": "タイトル",
+    "body": "内容",
+    "shortcuts": "フォームページではグローバルショートカットは無効です"
+  },
+  "register": {
+    "next": "次へ",
+    "title1": "基本情報",
+    "fname": "名",
+    "lname": "姓",
+    "email": "メールアドレス",
+    "sex": "性別",
+    "title2": "プロフィール情報",
+    "uname": "ユーザー名",
+    "pass": "パスワード",
+    "pass2": "パスワード確認",
+    "title3": "自己紹介",
+    "bio": "プロフィール文",
+    "title4": "概要",
+    "fullname": "氏名",
+    "dob": "生年月日",
+    "imageupl": "画像アップロード完了",
+    "signup": "登録"
+  },
+  "profileoverview": {
+    "title": "プロフィール概要",
+    "fname": "名",
+    "lname": "姓",
+    "email": "メールアドレス",
+    "bio": "自己紹介",
+    "edit": "編集",
+    "save": "表示設定を保存"
+  },
+  "locale": {
+    "switch": "言語を変更"
+  },
+  "theme": {
+    "switch": "テーマ変更",
+    "light": "ライト",
+    "paper": "ペーパー",
+    "contrast": "コントラスト",
+    "mono": "モノクロ",
+    "terminal": "ハッカー",
+    "jewel": "ジュエル",
+    "neon": "ネオン",
+    "pastel": "パステル",
+    "warm": "ウォーム",
+    "midnight": "ミッドナイト",
+    "ocean": "オーシャン",
+    "sunset": "サンセット",
+    "forest": "フォレスト"
+  },
+  "fonts": {
+    "switchf": "フォント変更",
+    "switchfs": "フォントサイズ変更",
+    "sysdef": "システム既定"
+  },
+  "auth": {
+    "welcome": "Impulseへようこそ。ログインしてください。",
+    "login": "ログイン",
+    "identifier": "ユーザー名またはメールアドレス",
+    "password": "パスワード",
+    "remember_me": "ログイン状態を保持",
+    "submit_login": "ログイン"
+  },
+  "nav": {
+    "login": "ログイン",
+    "register": "登録",
+    "about": "概要",
+    "homepage": "ホーム",
+    "settings": "設定",
+    "profile": "プロフィール",
+    "notifications": "通知",
+    "logout": "ログアウト",
+    "issues": "課題",
+    "social": "ソーシャル",
+    "chat": "チャット",
+    "videos": "動画"
+  },
+  "settings": {
+    "basic": "基本設定",
+    "account": "アカウント情報",
+    "content": "コンテンツポリシー",
+    "additional": "追加情報",
+    "terms": "利用規約",
+    "theme": "テーマ設定",
+    "docs": "APIドキュメント",
+    "shortcuts": "ショートカット",
+    "sidemenu": "サイドメニュー",
+    "changepass": "パスワード変更"
+  },
+  "social": {
+    "search": "ユーザーを検索"
+  },
+  "groups": {
+    "search": "グループを検索",
+    "create": "グループを作成",
+    "memlen": "メンバー",
+    "promote": "昇格",
+    "kick": "削除",
+    "invite": "招待",
+    "name": "グループ名",
+    "about": "グループ概要",
+    "addppl": "メンバーを追加",
+    "making": "作成中...",
+    "make": "作成",
+    "reqadmin": "管理者承認が必要",
+    "viewmems": "メンバー一覧",
+    "leavegroup": "グループを退出",
+    "ngf": "グループが見つかりません",
+    "groupseek": "グループを検索中...",
+    "member": "メンバー",
+    "accinv": "招待を承認",
+    "pend": "保留中",
+    "reqjoin": "参加申請",
+    "join": "参加"
+  },
+  "about": {
+    "1": "Impulseへようこそ — ソフトウェアエンジニアとしての私の歩みの集大成です。",
+    "2": "このアプリは10年以上開発されてきました。当初は開発者向けの次世代SNSとして構想されましたが、時間とともにデスクトップアプリとして進化し、より個人的で集中した形へと変わりました。",
+    "3": "単純なNoSQLのCRUDアプリから始まり、今では慎重に設計された分散システムへと成長しています。",
+    "4": "興味があれば、他のプロジェクトもぜひご覧ください。",
+    "otherprojects": "その他のプロジェクト",
+    "followme": "フォロー"
+  },
+  "postform": {
+    "init": "今なにしてる？",
+    "group": "グループに投稿する...",
+    "title": "タイトル",
+    "desc": "説明",
+    "files": "ファイル",
+    "post": "投稿"
+  },
+  "chats": {
+    "friends": "友達チャット",
+    "group": "グループチャット",
+    "select": "チャットを選択"
+  },
+  "apidocs": {},
+  "shortcuts": {
+    "title": "ショートカット",
+    "ctrl": "Ctrlキー",
+    "shift": "Shiftキー",
+    "goto": "移動",
+    "reload": "ページ再読み込み",
+    "cmd": "コマンドパレット",
+    "logout": "ログアウト"
+  },
+  "sidemenu": {
+    "title": "サイドメニュー",
+    "options": "利用可能なオプション",
+    "deleted": "削除済みアイテム",
+    "add": "新規アイテム追加",
+    "remove": "サイドメニュー削除",
+    "reset": "リセット",
+    "noshow": "表示する項目なし",
+    "route": "ルート",
+    "text": "テキスト",
+    "anim": "アニメーション",
+    "submit": "送信"
+  },
+  "changepass": {
+    "title": "ここでパスワードを変更"
+  },
+  "notifs": {
+    "seeall": "すべて見る",
+    "title": "通知",
+    "home": "ホームへ"
+  },
+  "modals": {
+    "cmd": "コマンドパレット",
+    "searchcmd": "コマンドを検索...",
+    "grouppost": "グループ投稿を作成",
+    "post": "投稿を作成",
+    "sideitem": "サイドメニュー項目追加",
+    "creategroup": "グループ作成",
+    "invite": "ユーザー招待",
+    "userseek": "ユーザーを検索...",
+    "members": "メンバー",
+    "close": "閉じる",
+    "savechanges": "変更を保存"
+  },
+  "premature404": {
+    "post": "投稿が見つかりません",
+    "group": "グループが見つかりません",
+    "profile": "プロフィールが見つかりません"
+  },
+  "posts": {
+    "attach": "添付ファイル"
+  },
+  "tags": {
+    "usedby": "使用者",
+    "nousers": "まだユーザーなし",
+    "posts": "投稿",
+    "noposts": "投稿が見つかりません",
+    "used": "使用",
+    "times": "回"
+  },
+  "notfound": {
+    "oops1": "おっと、壊しちゃったね！",
+    "oops2": "いやあ、これはちょっと恥ずかしいね...",
+    "prompt": "何を探してたんだっけ？",
+    "solution1": "もしかしたら",
+    "chat": "チャットへ行く",
+    "issue": "バグとして報告する",
+    "home": "ホームへ戻る",
+    "goback": "戻る"
+  }
+}

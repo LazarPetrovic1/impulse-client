@@ -1,0 +1,260 @@
+{
+  "profile": {
+    "submit": "Sende",
+    "addInfo": "Weitere Informationen hinzufügen",
+    "employment": "Beschäftigung",
+    "noJob": "Arbeitslos",
+    "website": "Website",
+    "noWebsite": "Ich habe keinen Website",
+    "toggleSocial": "Mehr anzeigen",
+    "hideSocial": "Abschnitt ausblenden",
+    "back": "Zurück",
+    "reqsent": "Anfrage gesendet",
+    "addfr": "Freund hinzufügen",
+    "welcome": "Willkomme",
+    "worksat": "Arbeitet bei"
+  },
+  "ctxmenus": {
+    "copyrel": "Relativen Pfad kopieren",
+    "goto": "Zum Pfad gehen",
+    "remove": "Aus dem Seitenmenü entfernen",
+    "copytext": "Text kopieren",
+    "pastetext": "Text einfügen",
+    "selectall": "Alles auswählen",
+    "gohere": "Hierher gehen"
+  },
+  "system": {
+    "file": "Datei",
+    "reload": "Neu laden",
+    "quit": "Beenden",
+    "view": "Ansicht",
+    "devtools": "Entwicklertools umschalten",
+    "window": "Fenster",
+    "minimize": "Minimieren",
+    "maximize": "Maximieren",
+    "close": "Schließen"
+  },
+  "sidenav": {
+    "issues": "Vorgänge",
+    "social": "Soziales",
+    "chat": "Chat",
+    "groups": "Gruppen",
+    "roles": "Rollen",
+    "terminal": "Terminal",
+    "upgrade": "Upgrade"
+  },
+  "issues": {
+    "issues": "Vorgänge",
+    "create": "Vorgang erstellen",
+    "update": "Vorgang aktualisieren",
+    "submit": "Absenden",
+    "title": "Titel",
+    "body": "Inhalt",
+    "shortcuts": "Globale Tastenkombinationen sind auf Formularseiten deaktiviert."
+  },
+  "register": {
+    "next": "Weiter",
+    "title1": "Grundlegende Informationen",
+    "fname": "Vorname",
+    "lname": "Nachname",
+    "email": "E-Mail",
+    "sex": "Geschlecht",
+    "title2": "Profilinformationen",
+    "uname": "Benutzername",
+    "pass": "Passwort",
+    "pass2": "Passwort bestätigen",
+    "title3": "Erzählen Sie uns etwas über sich",
+    "bio": "Ihre Biografie",
+    "title4": "Übersicht",
+    "fullname": "Vollständiger Name",
+    "dob": "Geburtsdatum",
+    "imageupl": "Bild hochgeladen",
+    "signup": "Melden an"
+  },
+  "profileoverview": {
+    "title": "Profilübersicht",
+    "fname": "Vorname",
+    "lname": "Nachname",
+    "email": "E-Mail",
+    "bio": "Biografie",
+    "edit": "Bearbeiten",
+    "save": "Sichtbarkeit speichern"
+  },
+  "locale": {
+    "switch": "Sprache ändern"
+  },
+  "theme": {
+    "switch": "Theme ändern",
+    "light": "Hell",
+    "paper": "Papier",
+    "contrast": "Kontrast",
+    "mono": "Mono",
+    "terminal": "Hacker",
+    "jewel": "Juwel",
+    "neon": "Neon",
+    "pastel": "Pastell",
+    "warm": "Warm",
+    "midnight": "Mitternacht",
+    "ocean": "Ozean",
+    "sunset": "Sonnenuntergang",
+    "forest": "Wald"
+  },
+  "fonts": {
+    "switchf": "Schriftart ändern",
+    "switchfs": "Schriftgröße ändern",
+    "sysdef": "Systemeinstellung"
+  },
+  "auth": {
+    "welcome": "Willkommen bei Impulse! Bitte melden Sie sich an!",
+    "login": "Anmeldung",
+    "identifier": "Benutzername oder E-Mail",
+    "password": "Passwort",
+    "remember_me": "Angemeldet bleiben",
+    "submit_login": "Logge ein!"
+  },
+  "nav": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "about": "Über uns",
+    "homepage": "Startseite",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "notifications": "Benachrichtigungen",
+    "logout": "Abmelden",
+    "issues": "Probleme",
+    "social": "Soziales",
+    "chat": "Chat",
+    "videos": "Videos"
+  },
+  "settings": {
+    "basic": "Allgemeine Einstellungen",
+    "account": "Kontoinformationen",
+    "content": "Inhaltsrichtlinien",
+    "additional": "Zusätzliche Informationen",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "theme": "Theme-Konfiguration",
+    "docs": "API-Dokumentation",
+    "shortcuts": "Tastenkombinationen",
+    "sidemenu": "Seitenmenü",
+    "changepass": "Passwort ändern"
+  },
+  "social": {
+    "search": "Personen suchen"
+  },
+  "groups": {
+    "search": "Nach Gruppen suchen",
+    "create": "Gruppe erstellen",
+    "memlen": "Mitglieder",
+    "promote": "Befördern",
+    "kick": "Entfernen",
+    "invite": "Einladen",
+    "name": "Gruppenname",
+    "about": "Über die Gruppe",
+    "addppl": "Personen hinzufügen",
+    "making": "Wird erstellt...",
+    "make": "Erstellen",
+    "reqadmin": "Administratorgenehmigung erforderlich",
+    "viewmems": "Mitglieder anzeigen",
+    "leavegroup": "Gruppe verlassen",
+    "ngf": "Keine Gruppen gefunden",
+    "groupseek": "Gruppen werden gesucht...",
+    "member": "Mitglied",
+    "accinv": "Einladung annehmen",
+    "pend": "Ausstehend",
+    "reqjoin": "Anfrage senden",
+    "join": "Beitreten"
+  },
+  "about": {
+    "1": "Willkommen bei Impulse — dem Ergebnis meiner bisherigen Laufbahn als Softwareentwickler.",
+    "2": "Diese Anwendung befindet sich seit über einem Jahrzehnt in Entwicklung. Ursprünglich war sie als eine neue Art von sozialer Plattform gedacht, speziell für Entwickler und Ingenieure. Mit der Zeit hat sich diese Idee jedoch weiterentwickelt und ist zu einer Desktop-Anwendung geworden, die weiterhin einen sozialen Charakter hat — nur etwas fokussierter und persönlicher.",
+    "3": "Was als einfache CRUD-Anwendung mit einer NoSQL-Datenbank begann, hat sich zu einem verteilten System mit sorgfältig gestalteten Beziehungen und einer durchdachten Architektur entwickelt.",
+    "4": "Wenn du möchtest, kannst du dir unten auch einige meiner anderen Projekte ansehen.",
+    "otherprojects": "Meine weitere Projekte",
+    "followme": "Folge mir"
+  },
+  "postform": {
+    "init": "Was geht ab?",
+    "group": "Teile etwas mit der Gruppe...",
+    "title": "Titel",
+    "desc": "Beschreibung",
+    "files": "Dateien",
+    "post": "Beitrag erstellen"
+  },
+  "chats": {
+    "friends": "Chats mit Freunden",
+    "group": "Gruppenchats",
+    "select": "Wähle einen Chat aus"
+  },
+  "apidocs": {
+
+  },
+  "shortcuts": {
+    "title": "Tastenkombinationen",
+    "ctrl": "Steuerung (Strg)",
+    "shift": "Umschalt (Shift)",
+    "goto": "Gehe zu",
+    "reload": "Seite neu laden",
+    "cmd": "Befehlspalette",
+    "logout": "Abmelden"
+  },
+  "sidemenu": {
+    "title": "Seitenmenü-Optionen",
+    "options": "Verfügbare Optionen",
+    "deleted": "Gelöschte Elemente",
+    "add": "Neue(s) Element(e) hinzufügen",
+    "remove": "Seitenmenü entfernen",
+    "reset": "Elemente zurücksetzen",
+    "noshow": "Keine Elemente zum Anzeigen",
+    "route": "Route",
+    "text": "Text",
+    "anim": "Animation",
+    "submit": "Sende ab"
+  },
+  "changepass": {
+    "title": "Passwort hier ändern!"
+  },
+  "notifs": {
+    "seeall": "Alle anzeigen",
+    "title": "Benachrichtigungen",
+    "home": "Zur Startseite"
+  },
+  "modals": {
+    "cmd": "Befehlspalette",
+    "searchcmd": "Befehle suchen...",
+    "grouppost": "Gruppenbeitrag erstellen",
+    "post": "Beitrag erstellen",
+    "sideitem": "Neuen Seitenmenüeintrag hinzufügen",
+    "creategroup": "Gruppe erstellen",
+    "invite": "Benutzer einladen",
+    "members": "Mitglieder",
+    "userseek": "Benutzer suchen...",
+    "close": "Schließen",
+    "savechanges": "Änderungen speichern"
+  },
+  "premature404": {
+    "post": "Beitrag nicht gefunden",
+    "group": "Gruppe nicht gefunden",
+    "profile": "Kein Profil gefunden"
+  },
+  "posts": {
+    "attach": "Anhang"
+  },
+  "tags": {
+    "usedby": "Verwendet von",
+    "nousers": "Noch keine Nutzer",
+    "posts": "Beiträge",
+    "noposts": "Keine Beiträge gefunden",
+    "used": "Verwendet",
+    "times": "Mal"
+  },
+  "notfound": {
+    "oops1": "Ups, du hast es kaputt gemacht!",
+    "oops2": "Nun, das ist jetzt peinlich...",
+    "prompt": "Wonach hast du noch mal gesucht?",
+    "solution1": "Vielleicht solltest du",
+    "chat": "chatten gehen",
+    "issue": "dies als Problem melden",
+    "home": "oder zur Startseite gehen",
+    "goback": "Stattdessen zurückgehen"
+  }
+}
